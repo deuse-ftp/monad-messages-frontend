@@ -313,7 +313,7 @@
         return;
       }
       requestAnimationFrame(() => {
-        fetch('https://monad-messages-backend.onrender.com/configure', {
+        fetch('https://monad-messages-backend.onrender.com/', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ walletAddress, monitorType, chatId })
