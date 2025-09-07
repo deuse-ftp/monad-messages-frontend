@@ -98,4 +98,3 @@ Security: Set BOT_TOKEN and DATABASE_URL as environment variables. Restrict CORS
 Dependencies: Ensure package.json includes pg for Neon.
 Troubleshooting: Check logs in Render, Neon, and Vercel. Test Neon with psql.
 
-For issues, open a ticket on GitHub.
