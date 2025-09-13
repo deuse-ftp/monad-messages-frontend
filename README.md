@@ -7,7 +7,7 @@
 - **Database**: PostgreSQL on Neon for wallet persistence.
 - **Telegram Bot**: Manages chat ID generation and notifications.
 
-## Pre-requisites
+## Prerequisites
 
 - **Node.js** installed locally for testing.
 - Accounts on:
